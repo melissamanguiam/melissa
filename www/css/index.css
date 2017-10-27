@@ -1,0 +1,24 @@
+body{
+    margin: 0 auto;
+    background-image: url("https://avante.biz/wp-content/uploads/Wooden-Backgrounds-HD/Wooden-Backgrounds-HD-040.jpg");
+}
+input[type=text]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: ;
+    color: block;
+}
+input[type=button]{
+    background-color: #00FF00;
+    border: none;
+    color: black;
+    padding: 10px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 100%
+}
